@@ -10,7 +10,7 @@ I'm a Software Engineer with experience in building web applications, APIs, and 
 
 ## Skills
 - **Languages**: Java, C++
-- **Frameworks**: Spring Boot, Hibernate
+- **Frameworks**: Spring Boot, Apache Kafka, Hibernate
 - **Databases**: PostgreSQL, MongoDB
 - **Tools**: Git, Jenkins, Maven
 - **Platforms**: AWS, Linux
