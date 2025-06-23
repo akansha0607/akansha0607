@@ -3,7 +3,7 @@
 ## About Me
 I'm a Software Engineer with experience in building web applications, APIs, and working with technologies like Java, Spring Boot, PostgreSQL, and more.
 
-- 👨‍💻 I’m currently working at Lumiq.
+- 👨‍💻 I’m currently working as Consultant at Deloitte.
 - 🌱 I’m focusing on Java and backend development.
 - 💬 Ask me about: Java, Spring Boot, Multithreading, Kafka, APIs, and more.
 - 📫 How to reach me: [akansha06cs@gmail.com](mailto:akansha06cs@gmail.com)
