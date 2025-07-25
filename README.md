@@ -7,6 +7,7 @@ I'm a Software Engineer with experience in building web applications, APIs, and 
 - 🌱 I’m focusing on Java and backend development.
 - 💬 Ask me about: Java, Spring Boot, Multithreading, Kafka, APIs, and more.
 - 📫 How to reach me: [akansha06cs@gmail.com](mailto:akansha06cs@gmail.com)
+- 🌐 Portfolio: akansha-saxena-ocl9w05.gamma.site
 
 ## Skills
 - **Languages**: Java, C++
